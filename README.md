@@ -19,17 +19,17 @@ Muitos alunos acham suas aulas as mais pesadas do curso de ADS do instituto fede
 
 ## Assim como esta na abertua do programa, seguem as principais instruções de uso:
 
-  ***Voce esta usando um programa para calcular a sua nota na materia de: LINGUAGEM DE PROGRAMAÇÃO COM J. A. MANZANO 2024 2  SEMETRE.*** 
+  *Voce esta usando um programa para calcular a sua nota na materia de: LINGUAGEM DE PROGRAMAÇÃO COM J. A. MANZANO 2024 2  SEMETRE.*
 
-  ***Esse programa pode ser ineficiente caso o calculo do professor mude, caso realmente tenha mudado, certifique-se de fazer seu proprio programa.***
+  *Esse programa pode ser ineficiente caso o calculo do professor mude, caso realmente tenha mudado, certifique-se de fazer seu proprio programa.*
 
-  > ***Esteja atento ao que o programa pede!!!***
-  > ***Recomenda-se fazer a conta mais de uma vez.***
-  > ***Os resultados são menos precisos com menos dados, considere isso.***
+  > *Esteja atento ao que o programa pede!!!*
+  > *Recomenda-se fazer a conta mais de uma vez.*
+  > *Os resultados são menos precisos com menos dados, considere isso.*
     
-  ***Para testar o codigo, os dados do exemplo do manzano no doc. do SUAP stLIPA-Notas avaliacoes e provas de 27 de Julho de 2024 as 08:17.***
+  *Para testar o codigo, os dados do exemplo do manzano no doc. do SUAP stLIPA-Notas avaliacoes e provas de 27 de Julho de 2024 as 08:17.*
 
-  ***O PROGRAMA PODE APRESENTAR ERROS EXECUTE O CALCULO MAIS DE UMA VEZ.***
+  *O PROGRAMA PODE APRESENTAR ERROS EXECUTE O CALCULO MAIS DE UMA VEZ.*
 
 ### Em caso de dúvida durante o uso:
 
